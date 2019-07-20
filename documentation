@@ -1,0 +1,15 @@
+1-Login, Log out, Register => /Controller/Authentication.php
+2-Browse products as a list =>/Home, /groupby?q=..
+3-Search products=>/Controller/Find.php/FindByName
+4-View a product=> /Controller/Find.php/FindById
+5-Add product to cart =>/Controller/Functions/Addtocart
+6-simulate transaction=>/Controller/Payement
+7-view transaction history=>/Views/recent_orders
+8=>edit receipt=>/Controller/Generate_receipt || Manual_receipt
+
+
+
+My Api end point:/Model/ApiEndPoint.php
+Edit database parameter(username,password) in /Model/Database
+Les images utilisés, sont des images téléchargement libres et avec une réutilisation autorisé.
+source:google.com
